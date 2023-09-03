@@ -2,8 +2,18 @@
 
 ## INSTRUCTIONS
 
-build by typing make in the terminal  
-execute the code by running ./bin/carCntrlSimulator from the terminal  
+### BUILD
+In the terminal type:  
+```
+make
+```
+
+### EXECUTE
+
+execute the code from the terminal by typing: 
+'''
+./bin/carCntrlSimulator
+'''  
 
 
 The contents of the makefile was copied from the following repository:

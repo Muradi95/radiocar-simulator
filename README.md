@@ -11,9 +11,12 @@ make
 ### EXECUTE
 
 execute the code from the terminal by typing: 
-'''
+```
 ./bin/carCntrlSimulator
-'''  
+```
+
+
+
 
 
 The contents of the makefile was copied from the following repository:
